@@ -1,7 +1,7 @@
 
 
 
-<p align="center">I ❤️ Ultrapace a barreira do impossivel com a tecnologia I <br><br> Do desenvolvimento backend usando Java ao desenvolvimento frontend usando HTML e CSS, sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje, estou cursando <strong> Análise e desenvolvimento de sistemas</strong> focado em desenvolvimento web(Full-stack).</p>
+<p align="center">I Ultrapace a barreira do impossivel com a tecnologia I <br><br> Do desenvolvimento backend usando Java ao desenvolvimento frontend usando HTML e CSS, sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje, estou cursando <strong> Análise e desenvolvimento de sistemas</strong> focado em desenvolvimento web(Full-stack).</p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=CIEL085&theme=radical&mode=weekly" />
